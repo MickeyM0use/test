@@ -1,3 +1,6 @@
 .idea/
 AASC.iml
 target/
+build/
+chromedriver.exe
+selenium-server-standalone-*.jar
